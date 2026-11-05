@@ -1,6 +1,6 @@
 # Hi, I'm Zara!
 
-I'm a computer science graduate from The College of New Jersey, based in Washington, D.C. I like building backend tools that check things: who has access to what, what an attacker did in a log, and whether a result in a dataset can be trusted.
+I'm a computer science graduate from The College of New Jersey, based in Washington, D.C. I like building backend tools that check who has access to what, what an attacker did in a log, and whether a result in a dataset can be trusted.
 
 I'm looking for roles in software engineering, IT support, and security or technology risk.
 
